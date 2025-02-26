@@ -15,6 +15,6 @@ I'm a software developer currently in training!
 
 - ## 🌎 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tylerhacker)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 📫 [Email](mailto:your.email@example.com)
