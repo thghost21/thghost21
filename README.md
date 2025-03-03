@@ -1,8 +1,8 @@
 # Hello! I'm Tyler Hacker!
-I'm a software developer currently in training!
+I'm a Software Developer currently in training!
 
 ## 🔥 Tech Stack
-- 💻 Languages: JavaScript, Python, HTML, CSS
+- 💻 Languages: JavaScript, HTML, CSS
 - ⚡ Frameworks: React, Node.js, Django
 - 🛠 Tools: Git, Docker, VS Code
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,5 +16,4 @@ I'm a software developer currently in training!
 - ## 🌎 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tylerhacker)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📫 [Email](mailto:your.email@example.com)
+- 📫 [Email](mailto:tylerhacker21@gmail.com)
