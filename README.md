@@ -1,5 +1,5 @@
 # Hello! I'm Tyler Hacker!
-I'm a Software Developer currently in training!
+I'm a Jr Software Developer
 
 ## 🔥 Tech Stack
 - 💻 Languages: JavaScript, HTML, CSS
@@ -17,3 +17,4 @@ I'm a Software Developer currently in training!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tylerhacker)
 - 📫 [Email](mailto:tylerhacker21@gmail.com)
+- 📁 [Portfolio](https://thghost21.github.io/)
