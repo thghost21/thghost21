@@ -11,8 +11,7 @@ I'm a Jr Software Developer
 - 🌕 [Moon Miner](https://thghost21.github.io/Moon-Miner/) - Small click/idle game where you mine the moon for resources and then purchase upgrades. 
 - 🌍 [Project 2](https://github.com/username/project2) - Brief description
 
- ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=thghost21&show_icons=true&theme=dark)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thghost21)](https://github.com/thghost21/github-readme-stats)
 - ## 🌎 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tylerhacker)
